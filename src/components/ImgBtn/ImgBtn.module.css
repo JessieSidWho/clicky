@@ -1,0 +1,7 @@
+.imgB {
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    grid-template-columns: auto auto auto;
+    
+}
