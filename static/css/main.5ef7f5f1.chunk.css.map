@@ -1,0 +1,1 @@
+{"version":3,"sources":["ImgBtn.module.css"],"names":[],"mappings":"AAAA,oBACI,qBAAuB,CACvB,YAAa,CACb,WAAY,CACZ,oCAEJ","file":"main.5ef7f5f1.chunk.css","sourcesContent":[".imgB {\n    border: 1px solid black;\n    height: 200px;\n    width: 200px;\n    grid-template-columns: auto auto auto;\n    \n}"]}
